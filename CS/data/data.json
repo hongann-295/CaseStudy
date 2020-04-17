@@ -1,0 +1,302 @@
+{
+  "products": [
+    {
+      "productname": "HOMEMADE RETRO SLIM",
+      "productimage": "images/sp16.jpg",
+      "price": "130",
+      "size": "S, M, L",
+      "description": "Vai cotton...",
+      "id": 1,
+      "categoryId": "1"
+    },
+    {
+      "productname": "DRAGON CLASSIC BAG",
+      "productimage": "images/sp4.jpg",
+      "price": "80",
+      "size": "S, M, L",
+      "description": "Vai cotton",
+      "id": 2,
+      "categoryId": "1"
+    },
+    {
+      "productname": "DRESS MINI DRY WIRE IRON PRINTED",
+      "productimage": "images/sp5.jpg",
+      "price": "150",
+      "size": "S, M, L",
+      "description": "Vai cotton",
+      "id": 3,
+      "categoryId": "1"
+    },
+    {
+      "productname": "MONITORING THE BENEFITS OF BEN",
+      "productimage": "images/sp6.jpg",
+      "price": "96",
+      "size": "S, M, L",
+      "description": "Vai cotton",
+      "id": 4,
+      "categoryId": "1"
+    },
+    {
+      "productname": "MONITORING THE GRAPHICS OF JAPANESE",
+      "productimage": "images/sp10.jpg",
+      "price": "68",
+      "size": "S, M, L",
+      "description": "Vai cotton",
+      "id": 5,
+      "categoryId": "1"
+    },
+    {
+      "productname": "EMBROIDERED LAZER ",
+      "productimage": "images/sp17.jpg",
+      "price": "56",
+      "size": "S,M,L",
+      "description": "Embroidered lazer massage",
+      "id": 6,
+      "categoryId": "1"
+    },
+    {
+      "productname": "CIRCLE CHAINS",
+      "productimage": "images/phukien4.jpg",
+      "price": "130",
+      "size": "",
+      "description": "Gold plated material",
+      "id": 7,
+      "categoryId": "3"
+    },
+    {
+      "productname": "SQUARE SQUARE LINE",
+      "productimage": "images/phukien5.jpg",
+      "price": "130",
+      "size": "",
+      "description": "Gold plated material",
+      "id": 8,
+      "categoryId": "3"
+    },
+    {
+      "productname": "SQUARE LINE",
+      "productimage": "images/phukien6.jpg",
+      "price": "130",
+      "size": "",
+      "description": "Gold plated material",
+      "id": 9,
+      "categoryId": "3"
+    },
+    {
+      "productname": "CIRCLE CHAINS",
+      "productimage": "images/phukien7.jpg",
+      "price": "130",
+      "size": "",
+      "description": "Gold plated material",
+      "id": 10,
+      "categoryId": "3"
+    },
+    {
+      "productname": "SLIVER SET RING",
+      "productimage": "images/phukien8.jpg",
+      "price": "102",
+      "size": "",
+      "description": "Sliver material",
+      "id": 11,
+      "categoryId": "3"
+    },
+    {
+      "productname": "HOMEMADE RETRO SLIM",
+      "productimage": "images/decor1.jpg",
+      "price": "130",
+      "size": "S, M, L",
+      "description": "Vai cotton...",
+      "id": 12,
+      "categoryId": "4"
+    },
+    {
+      "productname": "HOMEMADE RETRO SLIM",
+      "productimage": "images/decor2.jpg",
+      "price": "130",
+      "size": "S, M, L",
+      "description": "Vai cotton...",
+      "id": 13,
+      "categoryId": "4"
+    },
+    {
+      "productname": "HOMEMADE RETRO SLIM",
+      "productimage": "images/decor3.jpg",
+      "price": "130",
+      "size": "S, M, L",
+      "description": "Vai cotton...",
+      "id": 14,
+      "categoryId": "4"
+    },
+    {
+      "productname": "HOMEMADE RETRO SLIM",
+      "productimage": "images/decor4.jpg",
+      "price": "130",
+      "size": "S, M, L",
+      "description": "Vai cotton...",
+      "id": 15,
+      "categoryId": "4"
+    },
+    {
+      "productname": "HOMEMADE RETRO SLIM",
+      "productimage": "images/decor5.jpg",
+      "price": "130",
+      "size": "S, M, L",
+      "description": "Vai cotton...",
+      "id": 16,
+      "categoryId": "4"
+    },
+    {
+      "productname": "HEIDI SHOES",
+      "productimage": "images/giay5.jpg",
+      "price": "130",
+      "size": "35 - 39",
+      "description": "Leather",
+      "id": 17,
+      "categoryId": "2"
+    },
+    {
+      "productname": "DALI SHOES",
+      "productimage": "images/giay6.jpg",
+      "price": "100",
+      "size": "35 - 39",
+      "description": "Leather",
+      "id": 18,
+      "categoryId": "2"
+    },
+    {
+      "productname": "HENA SHOES",
+      "productimage": "images/giay7.jpg",
+      "price": "90",
+      "size": "35 - 39",
+      "description": "Leather",
+      "id": 19,
+      "categoryId": "2"
+    },
+    {
+      "productname": "CHANDRA SHOES",
+      "productimage": "images/giay8.jpg",
+      "price": "148",
+      "size": "35 - 38",
+      "description": "Leather",
+      "id": 20,
+      "categoryId": "2"
+    },
+    {
+      "productname": "SHAVIA SHOES",
+      "productimage": "images/giay9.jpg",
+      "price": "130",
+      "size": "35 - 39",
+      "description": "Leather",
+      "id": 21,
+      "categoryId": "2"
+    },
+    {
+      "productname": "TWISTY ",
+      "productimage": "images/bag1.jpg",
+      "price": "99",
+      "size": "",
+      "description": "Leather.",
+      "id": 22,
+      "categoryId": "6"
+    },
+    {
+      "productname": "OTIS ",
+      "productimage": "images/bag2.jpg",
+      "price": "110",
+      "size": "",
+      "description": "Leather",
+      "id": 23,
+      "categoryId": "6"
+    },
+    {
+      "productname": "KIARA ",
+      "productimage": "images/bag7.jpg",
+      "price": "112",
+      "size": "",
+      "description": "Leather",
+      "id": 24,
+      "categoryId": "6"
+    },
+    {
+      "productname": "RETRO",
+      "productimage": "images/bag4.jpg",
+      "price": "69",
+      "size": "",
+      "description": "Leather",
+      "id": 25,
+      "categoryId": "6"
+    },
+    {
+      "productname": "HOMEMADE",
+      "productimage": "images/bag5.jpg",
+      "price": "89",
+      "size": "",
+      "description": "Leather",
+      "id": 26,
+      "categoryId": "6"
+    },
+    {
+      "productname": "HOME DRESS",
+      "productimage": "images/sp22.jpg",
+      "price": "211",
+      "size": "S, M",
+      "description": "Kate",
+      "categoryId": "1",
+      "id": 27
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "hongan529@gmail.com",
+      "password": "123456na"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Clothing",
+      "active": "true",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Shoes",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Accessories",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Decor",
+      "active": true
+    },
+    {
+      "name": "Comestic",
+      "active": "false",
+      "id": 5
+    },
+    {
+      "name": "Bag",
+      "active": "true",
+      "id": 6
+    }
+  ],
+  "feedback": [
+    {
+      "customer": "DUY LE",
+      "gmail": "duyle@gmail.com",
+      "phone": "0909878654",
+      "msg": "abc",
+      "id": 1
+    },
+    {
+      "customer": "DUY LE",
+      "gmail": "duyle@gmail.com",
+      "phone": "0909878654",
+      "msg": "abc",
+      "id": 2
+    }
+  ]
+}
